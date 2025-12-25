@@ -21,7 +21,7 @@
       const message = fd.get('message')?.toString().trim() || '';
 
       // Replace with your WhatsApp number in international format without + or spaces
-      const whatsappNumber = "923001234567"; // <-- CHANGE THIS
+      const whatsappNumber = "923137771696"; // <-- CHANGE THIS
 
       const text =
         `Assalam o Alaikum, I am ${name}.` +
