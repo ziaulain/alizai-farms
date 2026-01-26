@@ -7,6 +7,10 @@ window.ALIZAI_I18N = {
     "en": "Investment",
     "ur": "سرمایہ کاری"
   },
+  "nav.cost": {
+    "en": "Why Cost-Effective",
+    "ur": "کم لاگت کیوں"
+  },
   "nav.updates": {
     "en": "Updates",
     "ur": "تازہ اپڈیٹس"
