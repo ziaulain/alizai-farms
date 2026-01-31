@@ -68,8 +68,8 @@ window.ALIZAI_I18N = {
     "ur": "مویشیوں میں سرمایہ کاری"
   },
   "updates.title": {
-    "en": "Latest updates from our Instagram",
-    "ur": "ہمارے انسٹاگرام سے تازہ اپڈیٹس"
+    "en": "Follow us across social media",
+    "ur": "ہماری سوشل میڈیا اپڈیٹس فالو کریں"
   },
   "contact.title": {
     "en": "Message us on WhatsApp",
